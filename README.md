@@ -8,7 +8,7 @@ Repositorio para practica Ingeniera Software 2019 - UCEL - segundo cuatrimestre 
 - Matias Kraier
 
 # Alumnos: 
-- xxxx
+- Tomás Fissore - tomfissore@hotmail.com
 - xxxx
 - xxxx
 
